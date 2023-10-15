@@ -31,3 +31,58 @@ margin-left: 113px;
 .navbar-icons-right-image{
     margin-left: 24px;
 }
+.readmore{
+    display: flex;
+width: 1125px;
+padding: 59px 0.033px 59.39px 0px;
+justify-content: center;
+align-items: center;
+gap: 17px;
+width: 1125px;
+height: 500px;
+margin-left: 157px;
+}
+.readmore-title{
+    width: 545px;
+    color: #1F2E35;
+font-family: Roboto;
+font-size: 48px;
+font-style: normal;
+font-weight: 700;
+line-height: 133.687%; /* 64.17px */
+}
+.readmore-info{
+    color: #30444E;
+font-family: Roboto;
+font-size: 20px;
+font-style: normal;
+font-weight: 400;
+line-height: 144.687%; /* 28.937px */
+width: 520px;
+}
+.readmore-button{
+    border-radius: 4px;
+background: #EE4248;
+box-shadow: 1px 2px 4px 0px rgba(0, 0, 0, 0.25);
+display: inline-flex;
+padding: 12px 32px;
+align-items: flex-start;
+gap: 10px;
+width: 161px;
+height: 53px;
+}
+.readmore-button-text{
+    color: #FFF;
+font-family: Roboto;
+font-size: 20px;
+font-style: normal;
+font-weight: 400;
+line-height: 16.9px;
+margin-left: 32px;
+}
+.readmore-device-images{
+    margin-left: 54.44px;
+    width: 494.735px;
+height: 325.027px;
+flex-shrink: 0;
+}
